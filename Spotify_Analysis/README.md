@@ -69,6 +69,7 @@ This project demonstrates an **end-to-end data analytics pipeline**, from stakeh
 - **Interactive Power BI Dashboard:** [View Online →](https://app.powerbi.com/links/804iB6z2i0?ctid=5349a4dc-a350-45ff-b7b5-ffbd5c5fc573&pbi_source=linkShare)  
 - **Executive Summary Presentation:** [View PowerPoint →](https://1drv.ms/p/c/60cb6126e5f608d9/EZzjAkKArb1MqnOi-AGTUc4B4uWbnp77Rtol_uH1AU8DtA?e=2K1XM4)  
 - **Dataset Source:** [Kaggle – World’s Spotify Top 50 Musicality Data](https://www.kaggle.com/datasets/miquelneck/worlds-spotify-top-50-playlist-musicality-data/data)
+- **Spotify_Analysis(.pbix) File:** [View Online →](https://1drv.ms/p/c/60cb6126e5f608d9/EZzjAkKArb1MqnOi-AGTUc4B4uWbnp77Rtol_uH1AU8DtA?e=2K1XM4](https://drive.google.com/file/d/1MbMqfEOyhfH919yWJgwusqfZtISWUdKd/view?usp=sharing) 
 
 ---
 
