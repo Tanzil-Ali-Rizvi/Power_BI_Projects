@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | **Data Storage** | Google Sheets, Google Drive | Link to Google Drive Folder: https://drive.google.com/drive/folders/1B3iwwC4H7UTyMQD4cWFX8Y7vw4BVe3Ji?usp=sharing |
 | **Events_AD** | Big Size Dataset(so can open in this link) | Link to Events_AD.csv : https://drive.google.com/file/d/1OXdIjMT2wNvypPw8hIytHOfBci1ruu65/view?usp=sharing |
-| **Data Cleaning/Prep** | Google Sheets (Manual Sorting/Formatting) | data/ADs.csv, data/Campaigns_Detailed.csv, data/Events_AD.csv, data/User_Detailing.csv |
+| **Data Cleaning/Prep** | Google Sheets (Manual Sorting/Formatting)- In Data Folder | ADs.csv, Campaigns_Detailed.csv, Events_AD.csv, User_Detailing.csv |
 | **Visualization/BI** | Microsoft Power BI | Live Power BI Dashboard: https://app.powerbi.com/links/g6btuz_GuJ?ctid=5349a4dc-a350-45ff-b7b5-ffbd5c5fc573&pbi_source=linkShare |
 | **Presentation** | Google Slides (TBD) | Link to Explanatory Video/Presentation - https://1drv.ms/p/c/60cb6126e5f608d9/IQABba3vLdvaT5axMfsid2s0ASqOxSTam93CM8Y9Kb-XNbM?e=EXJlcK |
 
